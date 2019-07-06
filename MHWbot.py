@@ -124,4 +124,4 @@ if __name__ == "__main__":
 
 
 
-bot.run("NTk2OTU4NTE2NzY2NTcyNTU0.XSBG-Q.0ZDFkozLvnghH_xWcewd5-cvw3g")
+bot.login(process.env."NTk2OTU4NTE2NzY2NTcyNTU0.XSBG-Q.0ZDFkozLvnghH_xWcewd5-cvw3g")
